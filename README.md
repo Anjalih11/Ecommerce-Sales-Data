@@ -5,6 +5,7 @@
 The **Ecommerce Sales Dashboard** provides a comprehensive analysis of online sales performance using interactive visualizations. The dashboard helps businesses monitor revenue, profit, quantity sold, and customer purchasing behavior across different states, categories, and time periods.
 
 This project enables business stakeholders to quickly understand sales trends and make **data-driven decisions to improve business performance**.
+![Ecommerce Dashboard](ESD!.png)
 
 ---
 
@@ -146,7 +147,9 @@ This dashboard helps ecommerce businesses:
 
 # 📷 Dashboard Preview
 
-![Ecommerce Dashboard](Images/ecommerce_dashboard.png)
+![Ecommerce Dashboard](ESD.png)
+
+![Ecommerce Dashboard](ch.png)
 
 ---
 
